@@ -1,0 +1,62 @@
+Version 1.0
+i) Intial version Release
+
+Version 1.1
+i) Version file updated
+ii) Changes in POT file
+
+Version 1.1.1
+i)  Corrected
+	-- Declare license for image other than pixabay.com
+    -- Declare license for nivo-slider.css
+    -- Use the_title_attribute() for title and alt attribute
+    -- Prefix function with theme slug admin_header_css()
+    -- Removed THEME_URL VW_THEME_URL
+    -- Prefix add_panel, add_section, add_setting and add_control handles
+    -- Removed header("Location: http://" . $_SERVER['HTTP_HOST'] . "");
+    -- Remove unused comment out code ex. searchform.php line 10
+	
+Version 1.1.2
+	-- Incorrect use of home.php
+	-- Multiple escaping issues
+	-- Removed Custom Headers support.
+	-- searchform.php - get_search_query() escaping removed. 
+	-- home.php - added wp_reset_postdata();
+	-- contact.php - you have untranslatable text strings 
+	-- Corected demo content.
+	
+Version 1.1.3
+	-- Corrected error of WP Debug
+	-- Corrected Code Review
+	-- Fixed licensing.
+	-- Corrected single.php line 18
+	-- Corrected CSS
+	
+Version 1.1.4
+    -- Created custom page template for front slide page.
+	
+Version 1.1.5
+    -- Remove function in archive line 77.
+	
+Version 1.1.6
+    -- Change in style of layout.
+    -- Change in screenshot.
+	
+Version 1.1.7
+    -- Tags added and stylesheet changed
+	
+Version 1.1.8
+    -- changed description
+	
+Version 1.1.9
+    -- Slider error corrected
+
+Version 1.2
+    -- Style fixes
+    -- footer double text issue resolved
+
+Version 1.2.1
+    -- Changed the layout.
+    -- Added font Awsome.
+    -- Added the static section with pages.
+
