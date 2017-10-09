@@ -4,7 +4,7 @@ ini_set("log_errors", 1);
 ini_set("error_log", "errors/errors.log");
 */
 
-$email_id = "youremail@yourdomain.com";                     // Replace with your email address
+$email_id = "erika.odmark@gmail.com";                     // Replace with your email address
 	
 if(isset($_POST["submit"]))
 {
