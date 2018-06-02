@@ -1,0 +1,28 @@
+{
+  "name": "methow-website",
+  "version": "1.0.0",
+  "description": "Packages for Methow website",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.2.1",
+    "browser-sync": "2.18.13",
+    "gulp-uglify": "3.0.0",
+    "gulp-clean-css": "3.9.0",
+    "gulp-rename": "^1.2.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erikaodmark/methow-website.git"
+  },
+  "author": "Erika Odmark",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erikaodmark/methow-website/issues"
+  },
+  "homepage": "https://github.com/erikaodmark/methow-website#readme"
+}
