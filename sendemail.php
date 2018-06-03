@@ -1,11 +1,12 @@
 <?php
-/*ini_set('display_errors', 0);
+ini_set('display_errors', 0);
 ini_set("log_errors", 1);
 ini_set("error_log", "errors/errors.log");
-*/
+
 
 $email_id = "erika.odmark@gmail.com";                     // Replace with your email address
 echo $_POST;
+
 if(isset($_POST["submit"]))
 {
 	$contact_name = $_POST['name'];
